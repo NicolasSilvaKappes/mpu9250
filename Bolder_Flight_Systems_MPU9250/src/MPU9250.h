@@ -24,7 +24,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SO
 #ifndef MPU9250_h
 #define MPU9250_h
 
-#include "Arduino.h"
+#include "mbed.h"
 #include "Wire.h"    // I2C library
 #include "SPI.h"     // SPI library
 
